@@ -1,0 +1,26 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m------------------------< [0;36mcom.Project:Project[0;1m >-------------------------[m
+[[1;34mINFO[m] [1mBuilding Project Maven Webapp 0.0.1-SNAPSHOT[m
+[[1;34mINFO[m] [1m--------------------------------[ ear ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-clean-plugin:3.1.0:clean[m [1m(default-clean)[m @ [36mProject[0;1m ---[m
+[[1;34mINFO[m] Deleting /home/roshan/Desktop/git/SCM-Demo/target
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-ear-plugin:2.8:generate-application-xml[m [1m(default-generate-application-xml)[m @ [36mProject[0;1m ---[m
+[[1;34mINFO[m] Generating application.xml
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:3.0.2:resources[m [1m(default-resources)[m @ [36mProject[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /home/roshan/Desktop/git/SCM-Demo/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-ear-plugin:2.8:ear[m [1m(default-ear)[m @ [36mProject[0;1m ---[m
+[[1;34mINFO[m] Copying artifact [jar:javax.servlet:servlet-api:2.5] to [servlet-api-2.5.jar]
+[[1;34mINFO[m] Could not find manifest file: /home/roshan/Desktop/git/SCM-Demo/target/Project/META-INF/MANIFEST.MF - Generating one
+[[1;34mINFO[m] Building jar: /home/roshan/Desktop/git/SCM-Demo/target/Project.ear
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;32mBUILD SUCCESS[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  0.498 s
+[[1;34mINFO[m] Finished at: 2023-07-18T14:50:05+05:30
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
